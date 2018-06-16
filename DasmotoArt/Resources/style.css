@@ -1,0 +1,52 @@
+/* Header Image*/
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1,h2,h3,p{
+  font-family: helvetica;
+}
+
+.header{
+  font-size: 100px;
+  font-weight: bold;
+  color: #fff1e5;
+}
+
+.brushes{
+  font-size: 32px;
+  background-color: #94ce9f;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+.frames{
+  font-size: 32px;
+  background-color: #ff548a;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+.paint{
+  font-size: 32px;
+  background-color: #5d84d8;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.blue{
+  color:#4286f4;
+  font-weight: bold;
+}
